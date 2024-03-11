@@ -62,5 +62,5 @@ esc를 누르면 프로그램 종료
 
 ### 실제 녹화 영상
 <p align="center" width="100%">
-  <img src="https://github.com/b0v0d/MySimpleREC/assets/162780235/2a4e685b-6b13-4f6c-bb9f-daa9fafadbd1" width="50%>
+  <img src="https://github.com/b0v0d/MySimpleREC/assets/162780235/2a4e685b-6b13-4f6c-bb9f-daa9fafadbd1" width="50%">
 </p>
