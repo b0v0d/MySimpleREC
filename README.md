@@ -52,7 +52,8 @@ if not recording:
   if key == ord('u'):
     fps = fps + 1
 ```
-space bar를 누르면 녹화 시작,종료/ 녹화중이 아닐 때 'u'키를 누르면 FPS 증가, 'd'키를 누르면 FPS 감소
+space bar를 누르면 녹화 시작,종료
+녹화중이 아닐 때 'u'키를 누르면 FPS 증가, 'd'키를 누르면 FPS 감소
 
 ```python
 if key == 27:
