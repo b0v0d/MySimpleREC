@@ -1,7 +1,7 @@
 # MySimpleREC
 It's my small recording tool with openCV
 
-##코드 분석
+### 코드 분석
 ```python
 import cv2
 recording = False
