@@ -2,9 +2,9 @@
 It's my small recording tool with openCV
 
 ### 기능 요약
-1. 코드 내 cv2.VideoCapture의 인자 따라 녹화할 영상 설정
+1. 코드 내 cv2.VideoCapture의 인자
   '0': 노트북 내장 카메라 영상
-  '주소': 주소의 영상
+  / '주소': 주소의 영상
 2. Space Bar를 누르면 녹화 시작/종료
 3. 녹화중이 아닐 때: 화면 상단에 초록색 원, FPS 표시
 4. 녹화중일 때: 화면 상단에 빨간색 원만 표시
