@@ -35,7 +35,7 @@ else:
   cv2.circle(frame, (30, 30), 10, (0, 255, 0), -1)
   cv2.putText(frame, f"FPS:{fps}", (250, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 255), 2, cv2.LINE_AA)
 ```
-녹화중이면 화면에 표시된 영상에 빨간 원을 표시, 녹화중이 아니면 초록 원을 표시
+녹화중이면 화면에 표시된 영상에 빨간 원을 표시, 녹화중이 아니면 초록 원과 FPS를 표시
 
 ```python
 key = cv2.waitKey(1)
